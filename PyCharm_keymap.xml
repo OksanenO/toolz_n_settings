@@ -1,0 +1,43 @@
+<keymap version="1" name="VSCode copy" parent="VSCode">
+  <action id="ActivateBigDataToolWindowToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl alt b" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl u" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="Console.Jdbc.Execute">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Console.Open" />
+  <action id="DatabaseView.ImportFromSql">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Docker.RemoteServers.ConnectServer" />
+  <action id="Docker.RemoteServers.StartComposeService" />
+  <action id="Docker.RemoteServers.StartContainer" />
+  <action id="EditorStartNewLine" />
+  <action id="Jdbc.OpenConsole.Any" />
+  <action id="PyExecuteCellAction" />
+  <action id="PyRunFileInConsole">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="RunClass" />
+  <action id="RunDashboard.Run">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="org.jetbrains.r.actions.RunSelection" />
+  <action id="runShellFileAction" />
+</keymap>
