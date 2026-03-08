@@ -1,0 +1,14 @@
+<application>
+  <component name="UISettings">
+    <option name="EDITOR_TAB_LIMIT" value="50" />
+    <option name="HIDE_TABS_IF_NEED" value="false" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SEPARATE_MAIN_MENU" value="true" />
+    <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
+    <option name="SHOW_TOOL_WINDOW_NAMES" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
+    <option name="TOOL_WINDOW_LEFT_SIDE_CUSTOM_WIDTH" value="33" />
+    <option name="TOOL_WINDOW_RIGHT_SIDE_CUSTOM_WIDTH" value="33" />
+    <option name="UI_DENSITY" value="COMPACT" />
+  </component>
+</application>
